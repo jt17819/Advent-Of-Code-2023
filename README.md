@@ -1,3 +1,3 @@
 # Advent Of Code 2023
 
-My solutions to the Advent of Code Challenge 2023. Solutions are quick and dirty due to work and other commitments limit my free time. Code may not be the most efficient or prettiest, my goal is to produce the correct answer in a reasonable amount of time.
+My solutions to the Advent of Code Challenge 2023. Solutions are quick and dirty due to work and other commitments limiting my free time. Code may not be the most efficient or prettiest, my goal is to produce the correct answer in a reasonable amount of time. A solution is run from the root directory like: `python './Day 1/solution 1.py`. The answer will be printed to the console.
