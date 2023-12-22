@@ -1,7 +1,7 @@
 import numpy as np
 import re
 
-data = np.loadtxt("Day 1/data.txt", dtype=str)
+data = np.loadtxt("Day 01/data.txt", dtype=str)
 
 sum = 0
 number_map = {"one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9"}
