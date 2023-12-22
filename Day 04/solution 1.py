@@ -1,4 +1,4 @@
-with open("Day 4/data.txt", "r") as file:
+with open("Day 04/data.txt", "r") as file:
     data = file.read().split("\n")
 
 total = 0
