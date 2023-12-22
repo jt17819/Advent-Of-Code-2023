@@ -1,7 +1,7 @@
 from math import lcm
 
 
-with open("Day 8/data.txt", "r") as file:
+with open("Day 08/data.txt", "r") as file:
     data = file.read().split("\n")
 
 directions = data.pop(0).replace("L","0").replace("R","1")
