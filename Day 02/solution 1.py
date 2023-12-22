@@ -2,7 +2,7 @@ import re
 import math
 
 
-with open("Day 2/data.txt", "r") as file:
+with open("Day 02/data.txt", "r") as file:
     data = file.read().split("\n")
 # print(data)
 
