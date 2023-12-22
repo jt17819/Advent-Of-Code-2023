@@ -2,8 +2,8 @@ import numpy as np
 import re
 
 
-# data = np.loadtxt("Day 3/data.txt", dtype=str)
-with open("Day 3/data.txt", "r") as file:
+# data = np.loadtxt("Day 03/data.txt", dtype=str)
+with open("Day 03/data.txt", "r") as file:
     data = file.read().split("\n")
 
 new_data = []
