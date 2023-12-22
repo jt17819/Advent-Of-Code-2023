@@ -1,7 +1,7 @@
 import numpy as np
 
 
-with open("Day 5/data.txt", "r") as file:
+with open("Day 05/data.txt", "r") as file:
     data = file.read().split("\n\n")
 # print(data)
 
