@@ -4,7 +4,7 @@ import numpy as np
 def find_next_num_in_seqn(seqn):
     # print(seqn)
     if not any(seqn):
-        print(seqn)
+        # print(seqn)
         return 0
     diff = [seqn[i+1] - seqn[i] for i in range(len(seqn) - 1)]
     
@@ -13,7 +13,7 @@ def find_next_num_in_seqn(seqn):
     return seqn[-1] + find_next_num_in_seqn(diff)
 
 
-with open("Day 9/data.txt", "r") as file:
+with open("Day 09/data.txt", "r") as file:
     data = file.read().split("\n")
 data = np.array([d.split(" ") for d in data], dtype=np.int64)
 # print(data)
