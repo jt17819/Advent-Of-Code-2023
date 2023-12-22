@@ -1,7 +1,7 @@
 import math
 
 
-with open("Day 6/data.txt", "r") as file:
+with open("Day 06/data.txt", "r") as file:
     data = file.read().split("\n")
 
 print(data)
